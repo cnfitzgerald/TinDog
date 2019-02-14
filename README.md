@@ -1,2 +1,1 @@
-# TinDog
-WebDev Bootcamp Project 3
+TinDog Starting Files
